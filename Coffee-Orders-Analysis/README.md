@@ -1,5 +1,6 @@
-## Coffee Orders Analysis & Dashboard
-# Project Overview
+# Coffee Orders Analysis & Dashboard
+
+## Project Overview
 
 In this project I have analyzed coffee sales data and visualized key business insights using Microsoft Excel. The interactive Coffee Sales Dashboard helps stakeholders track sales performance, customer trends, and product demand across different regions.
 
